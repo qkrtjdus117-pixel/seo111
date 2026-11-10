@@ -1,0 +1,8 @@
+{
+  "name": "슬림로그 (SlimLog) - 스마트 다이어트 & 식단 관리",
+  "description": "AI 기반 스마트 식단 분석, 칼로리 및 탄단지 영양소 추적, 체중 변화 분석, 간헐적 단식 타이머를 제공하는 올인원 다이어트 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
